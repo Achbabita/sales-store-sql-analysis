@@ -37,7 +37,6 @@ This project focuses on analyzing retail sales data using SQL Server and SSMS to
 - Aggregate Functions
 - DATEPART()
 - FORMAT()
-- PIVOT
 - Conditional Counting
 
 ---
